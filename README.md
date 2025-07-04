@@ -49,4 +49,11 @@ Agradeço ao instrutor **Ricarth Lima** pela didática clara e objetiva, e à **
 
 Confira um vídeo rápido mostrando o funcionamento do app:
 
-![Certificado](./tech_taste/assets/photos_readme/video.gif)
+![Vídeo(./tech_taste/assets/photos_readme/video.gif)
+
+---
+
+### 💬 Quer trocar uma ideia sobre Flutter?
+Se você também está estudando ou tem interesse na tecnologia, fique à vontade para me chamar! Vamos aprender juntos! 😊
+
+__Esse é o meu Linkedln:__ [Clique aqui!](https://www.linkedin.com/in/rafaela-aparecida-dos-santos-28585a283/)
